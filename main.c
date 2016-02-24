@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Quel âge avez-vous? \n");
+    printf("Quel âge avez-vous monsieur? \n");
     int age = 0;
     scanf("%d", &age);
     int annee = 2016 - age;
